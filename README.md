@@ -7,7 +7,7 @@
 
 - ### [Template Literals](#template-literals-1)
 
-- ### [Escape Sequence Characters](#escape-sequence-characters-1)
+- ### [Escape Sequence Characters](#escape-sequence-characters)
 
 
 <h3 align="center" id="template-literals">Template Literals</h3>
@@ -24,7 +24,7 @@ console.log(sentance)
 
 <p>Template literals use backtics of quots to display a string. Printing variable direct in string through template literals called string interpolation</p>
 
-<h3 align="center" id="escape-sequence-characters">Escape  Sequence Characters</h3>
+<h3 align="center" id="escape-sequence-characters">Escape Sequence Characters</h3>
 
 ```javascript
 let sentence = `He said that 'You can\'t go out in the rain'` /** Use of \' */
