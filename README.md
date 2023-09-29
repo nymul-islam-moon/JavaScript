@@ -16,6 +16,7 @@
 let friend_1 = 'Moon'
 let friend_2 = 'Towkir'
 let sentance = `${friend_1} is a friend of ${friend_2}`
+console.log(sentance)
 ```
 
 
